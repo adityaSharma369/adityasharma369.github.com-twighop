@@ -1,0 +1,556 @@
+{
+  "lifestyle": [
+    {
+      "id": "adventurer",
+      "label": "Adventurer"
+    },
+    {
+      "id": "art_enthusiast",
+      "label": "Artsy"
+    },
+    {
+      "id": "athlete",
+      "label": "Athlete"
+    },
+    {
+      "id": "book_lover",
+      "label": "Avid reader"
+    },
+    {
+      "id": "chef",
+      "label": "Chef"
+    },
+    {
+      "id": "cinema_goer",
+      "label": "Movie lover"
+    },
+    {
+      "id": "culture_enthusiast",
+      "label": "Culture enthusiast"
+    },
+    {
+      "id": "dancer",
+      "label": "Dancer"
+    },
+    {
+      "id": "early_bird",
+      "label": "Early bird"
+    },
+    {
+      "id": "entrepreneur",
+      "label": "Entrepreneur"
+    },
+    {
+      "id": "family_person",
+      "label": "Family person"
+    },
+    {
+      "id": "fashionista",
+      "label": "Fashionista"
+    },
+    {
+      "id": "foodie",
+      "label": "Foodie"
+    },
+    {
+      "id": "gamer",
+      "label": "Gamer"
+    },
+    {
+      "id": "health_enthusiast",
+      "label": "Health-conscious"
+    },
+    {
+      "id": "homebird",
+      "label": "Homebody"
+    },
+    {
+      "id": "music_lover",
+      "label": "Avid music lover"
+    },
+    {
+      "id": "night_owl",
+      "label": "Night owl"
+    },
+    {
+      "id": "partier",
+      "label": "Party animal"
+    },
+    {
+      "id": "pet_lover",
+      "label": "Pet lover"
+    },
+    {
+      "id": "photographer",
+      "label": "Photographer"
+    },
+    {
+      "id": "shopper",
+      "label": "Shopoholic"
+    },
+    {
+      "id": "singer",
+      "label": "Singer"
+    },
+    {
+      "id": "tech_lover",
+      "label": "Techie"
+    },
+    {
+      "id": "theatre_fan",
+      "label": "Theater lover"
+    },
+    {
+      "id": "traveller",
+      "label": "Travel junkie"
+    },
+    {
+      "id": "vegan",
+      "label": "Vegan"
+    },
+    {
+      "id": "vegetarian",
+      "label": "Vegetarian"
+    },
+    {
+      "id": "walker",
+      "label": "Walker"
+    },
+    {
+      "id": "workaholic",
+      "label": "Workaholic"
+    }
+  ],
+  "movies_genres": [
+    {
+      "id": "action",
+      "label": "Action"
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure"
+    },
+    {
+      "id": "animation",
+      "label": "Animation"
+    },
+    {
+      "id": "comedy",
+      "label": "Comedy"
+    },
+    {
+      "id": "crime",
+      "label": "Crime"
+    },
+    {
+      "id": "documentary",
+      "label": "Documentary"
+    },
+    {
+      "id": "drama",
+      "label": "Drama"
+    },
+    {
+      "id": "fantasy",
+      "label": "Fantasy"
+    },
+    {
+      "id": "historical",
+      "label": "Historical"
+    },
+    {
+      "id": "horror",
+      "label": "Horror"
+    },
+    {
+      "id": "mystery",
+      "label": "Mystery"
+    },
+    {
+      "id": "political",
+      "label": "Political"
+    },
+    {
+      "id": "romance",
+      "label": "Romance"
+    },
+    {
+      "id": "saga",
+      "label": "Saga"
+    },
+    {
+      "id": "satire",
+      "label": "Satire"
+    },
+    {
+      "id": "sci_fi",
+      "label": "Sci-fi"
+    },
+    {
+      "id": "thriller",
+      "label": "Thriller"
+    },
+    {
+      "id": "western",
+      "label": "Western"
+    }
+  ],
+  "music": [
+    {
+      "id": "alternative",
+      "label": "Alternative"
+    },
+    {
+      "id": "asian_pop",
+      "label": "Asian pop"
+    },
+    {
+      "id": "blues",
+      "label": "Blues"
+    },
+    {
+      "id": "classical",
+      "label": "Classical"
+    },
+    {
+      "id": "country",
+      "label": "Country"
+    },
+    {
+      "id": "dance",
+      "label": "Dance"
+    },
+    {
+      "id": "electronic",
+      "label": "EDM"
+    },
+    {
+      "id": "folk",
+      "label": "Folk"
+    },
+    {
+      "id": "funk",
+      "label": "Funk"
+    },
+    {
+      "id": "gospel",
+      "label": "Gospel"
+    },
+    {
+      "id": "hip_hop",
+      "label": "Hip hop"
+    },
+    {
+      "id": "indie",
+      "label": "Indie"
+    },
+    {
+      "id": "instrumental",
+      "label": "Instrumental"
+    },
+    {
+      "id": "jazz",
+      "label": "Jazz"
+    },
+    {
+      "id": "latin",
+      "label": "Latin"
+    },
+    {
+      "id": "lounge",
+      "label": "Lounge"
+    },
+    {
+      "id": "metal",
+      "label": "Metal"
+    },
+    {
+      "id": "new_age",
+      "label": "New Age"
+    },
+    {
+      "id": "opera",
+      "label": "Opera"
+    },
+    {
+      "id": "pop",
+      "label": "Pop"
+    },
+    {
+      "id": "punk",
+      "label": "Punk"
+    },
+    {
+      "id": "r_b",
+      "label": "R&B"
+    },
+    {
+      "id": "reggae",
+      "label": "Reggae"
+    },
+    {
+      "id": "rock",
+      "label": "Rock"
+    },
+    {
+      "id": "ska",
+      "label": "Ska"
+    },
+    {
+      "id": "soul",
+      "label": "Soul"
+    }
+  ],
+  "personality": [
+    {
+      "id": "active",
+      "label": "Active"
+    },
+    {
+      "id": "calm",
+      "label": "Calm"
+    },
+    {
+      "id": "caring",
+      "label": "Caring"
+    },
+    {
+      "id": "cheerful",
+      "label": "Cheerful"
+    },
+    {
+      "id": "cooperative",
+      "label": "Cooperative"
+    },
+    {
+      "id": "creative",
+      "label": "Creative"
+    },
+    {
+      "id": "determined",
+      "label": "Determined"
+    },
+    {
+      "id": "easygoing",
+      "label": "Easy-going"
+    },
+    {
+      "id": "empathetic",
+      "label": "Empathetic"
+    },
+    {
+      "id": "enthusiastic",
+      "label": "Enthusiastic"
+    },
+    {
+      "id": "flexible",
+      "label": "Flexible"
+    },
+    {
+      "id": "friendly",
+      "label": "Friendly"
+    },
+    {
+      "id": "fun",
+      "label": "Fun"
+    },
+    {
+      "id": "honest",
+      "label": "Honest"
+    },
+    {
+      "id": "joker",
+      "label": "Prankster"
+    },
+    {
+      "id": "optimistic",
+      "label": "Optimistic"
+    },
+    {
+      "id": "organised",
+      "label": "Organized"
+    },
+    {
+      "id": "passionate",
+      "label": "Passionate"
+    },
+    {
+      "id": "practical",
+      "label": "Practical"
+    },
+    {
+      "id": "proactive",
+      "label": "Proactive"
+    },
+    {
+      "id": "rational",
+      "label": "Rational"
+    },
+    {
+      "id": "relaxed",
+      "label": "Chill"
+    },
+    {
+      "id": "sociable",
+      "label": "Social"
+    },
+    {
+      "id": "tolerant",
+      "label": "Tolerant"
+    }
+  ],
+  "sports": [
+    {
+      "id": "american_football",
+      "label": "Football"
+    },
+    {
+      "id": "athletics",
+      "label": "Athletics"
+    },
+    {
+      "id": "badminton",
+      "label": "Badminton"
+    },
+    {
+      "id": "baseball",
+      "label": "Baseball"
+    },
+    {
+      "id": "basketball",
+      "label": "Basketball"
+    },
+    {
+      "id": "bodyboarding",
+      "label": "Bodyboarding"
+    },
+    {
+      "id": "bowls",
+      "label": "Bowling"
+    },
+    {
+      "id": "boxing",
+      "label": "Boxing"
+    },
+    {
+      "id": "canoeing",
+      "label": "Canoeing"
+    },
+    {
+      "id": "climbing",
+      "label": "Climbing"
+    },
+    {
+      "id": "cricket",
+      "label": "Cricket"
+    },
+    {
+      "id": "diving",
+      "label": "Diving"
+    },
+    {
+      "id": "football",
+      "label": "Soccer"
+    },
+    {
+      "id": "golf",
+      "label": "Golf"
+    },
+    {
+      "id": "gym",
+      "label": "Gym"
+    },
+    {
+      "id": "hiking",
+      "label": "Hiking"
+    },
+    {
+      "id": "hockey",
+      "label": "Hockey"
+    },
+    {
+      "id": "horse_riding",
+      "label": "Horseback riding"
+    },
+    {
+      "id": "karting",
+      "label": "Go-karting"
+    },
+    {
+      "id": "martial_arts",
+      "label": "Martial arts"
+    },
+    {
+      "id": "motorcycling",
+      "label": "Motorcycling"
+    },
+    {
+      "id": "padel",
+      "label": "Padel"
+    },
+    {
+      "id": "pole_dancing",
+      "label": "Pole dancing"
+    },
+    {
+      "id": "rowing",
+      "label": "Rowing"
+    },
+    {
+      "id": "rugby",
+      "label": "Rugby"
+    },
+    {
+      "id": "running",
+      "label": "Running"
+    },
+    {
+      "id": "skateboarding",
+      "label": "Skateboarding"
+    },
+    {
+      "id": "skating",
+      "label": "Skating"
+    },
+    {
+      "id": "skiing",
+      "label": "Skiing"
+    },
+    {
+      "id": "snowboarding",
+      "label": "Snowboarding"
+    },
+    {
+      "id": "squash",
+      "label": "Squash"
+    },
+    {
+      "id": "surfing",
+      "label": "Surfing"
+    },
+    {
+      "id": "swimming",
+      "label": "Swimming"
+    },
+    {
+      "id": "table_tennis",
+      "label": "Table tennis"
+    },
+    {
+      "id": "tennis",
+      "label": "Tennis"
+    },
+    {
+      "id": "volleyball",
+      "label": "Volleyball"
+    },
+    {
+      "id": "water_polo",
+      "label": "Water polo"
+    },
+    {
+      "id": "windsurfing",
+      "label": "Windsurfing"
+    }
+  ]
+}
